@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Me Desculpa Meu Amigo Frango</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 50px;
+            color: red;
+        }
+        .images {
+            margin-top: 20px;
+        }
+        img {
+            width: 300px;
+            height: auto;
+            margin: 10px;
+            border: 2px solid black;
+        }
+    </style>
+</head>
+<body>
+    <h1>Me Desculpa Meu Amigo Frango</h1>
+    <div class="images">
+        <img src="frango.jpg" alt="Imagem do amigo frango">
+        <img src="gragas.jpeg" alt="Imagem do Gragas do LoL">
+    </div>
+</body>
+</html>
